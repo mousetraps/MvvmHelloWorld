@@ -1,0 +1,6 @@
+MvvmHelloWorld/bin
+MvvmHelloWorld/obj
+*.user
+*.suo
+.idea
+*.sln.cache
